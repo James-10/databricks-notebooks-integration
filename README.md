@@ -1,2 +1,2 @@
 # databricks-notebooks-integration
-Databricks simple notebooks repo for source control
+Repo for source and version control of databricks notebooks
